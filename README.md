@@ -18,7 +18,7 @@ The Technologies I Currently Use Are Javascript, HTML And CSS.
 ### Terminal
 ![](https://img.shields.io/badge/Terminal-Powershell-informational?style=flat&logo=windowsterminal&logoColor=white&color=2bbc8a)
 ### IDE'S / Code Editors
-![](https://img.shields.io/badge/IDE-Webstorm-informational?style=flat&logo=webstorm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IDE-VS%20Code-informational?style=flat&logo=webstorm&logoColor=white&color=2bbc8a))
 
 ## 💻 Github Stats
 <a href="">
