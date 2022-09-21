@@ -3,7 +3,7 @@
  ```console
 My Name Is Damien And I'm a Front End Web Developer. 
 I'm From England And Am Currently Living In Bristol. 
-You Can Find Me On Discord [ Discord Username: dev.damien#3661 ].
+You Can Find Me On Discord [ Discord Username: DevDamien92#1849 ].
 The Technologies I Currently Use Are Javascript, HTML And CSS.
 ```
 
